@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Base deep cosmic dark gradient background -->
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="0"
+                android:startY="0"
+                android:endX="108"
+                android:endY="108"
+                android:type="linear">
+                <item
+                    android:color="#0B0014"
+                    android:offset="0.0" />
+                <item
+                    android:color="#1F0038"
+                    android:offset="0.5" />
+                <item
+                    android:color="#120129"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Micro matrix nodes representing safe privacy grid -->
+    <path
+        android:fillColor="#1500FFCC"
+        android:pathData="M10,10h2v2h-2z M25,18h2v2h-2z M45,15h2v2h-2z M75,12h2v2h-2z M95,22h2v2h-2z M12,45h2v2h-2z M50,50h2v2h-2z M85,42h2v2h-2z M20,80h2v2h-2z M65,75h2v2h-2z M88,85h2v2h-2z" />
+</vector>

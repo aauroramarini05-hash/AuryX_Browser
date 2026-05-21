@@ -1,0 +1,6 @@
+{
+  "name": "AuryxBrowser",
+  "description": "An advanced, privacy-focused web browser with integrated custom utilities, fast download tool, ad-blocker, password manager, and power optimization modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
